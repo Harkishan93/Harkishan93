@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-animated-sidebar/static/css/main.38832780.css",
+    "main.js": "/react-animated-sidebar/static/js/main.db0bae25.js",
+    "static/js/787.db91ca5c.chunk.js": "/react-animated-sidebar/static/js/787.db91ca5c.chunk.js",
+    "index.html": "/react-animated-sidebar/index.html",
+    "main.38832780.css.map": "/react-animated-sidebar/static/css/main.38832780.css.map",
+    "main.db0bae25.js.map": "/react-animated-sidebar/static/js/main.db0bae25.js.map",
+    "787.db91ca5c.chunk.js.map": "/react-animated-sidebar/static/js/787.db91ca5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38832780.css",
+    "static/js/main.db0bae25.js"
+  ]
+}
